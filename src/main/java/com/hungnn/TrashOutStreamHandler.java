@@ -11,13 +11,16 @@ public class TrashOutStreamHandler extends SkillStreamHandler {
         return Skills.standard()
                 .addRequestHandlers(
                         new LaunchRequestHandler(),
-                        new HelloWorldIntentHandler(),
                         new HelpIntentHandler(),
                         new SessionEndedRequestHandler(),
                         new CancelAndStopIntentHandler(),
-                        new TrashTurnInitIntent(),
-                        new TrashDumpedIntent()
+                        new TrashTurnInitIntentHandler(),
+                        new TrashDumpedIntentHandler(),
+                        new RemovePeopleIntentHandler(),
+                        new CheckListIntentHandler()
                 )
+                .withTableName("trash-turn")
+                .withAutoCreateTable(true)
                 .build();
     }
 
