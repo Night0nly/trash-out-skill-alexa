@@ -1,9 +1,0 @@
-/mnt/c/Users/hungnn/IdeaProjects/trash-out-skill-alexa/src/main/java/com/hungnn/handlers/CheckListIntentHandler.java
-/mnt/c/Users/hungnn/IdeaProjects/trash-out-skill-alexa/src/main/java/com/hungnn/TrashOutStreamHandler.java
-/mnt/c/Users/hungnn/IdeaProjects/trash-out-skill-alexa/src/main/java/com/hungnn/handlers/TrashDumpedIntentHandler.java
-/mnt/c/Users/hungnn/IdeaProjects/trash-out-skill-alexa/src/main/java/com/hungnn/handlers/SessionEndedRequestHandler.java
-/mnt/c/Users/hungnn/IdeaProjects/trash-out-skill-alexa/src/main/java/com/hungnn/handlers/TrashTurnInitIntentHandler.java
-/mnt/c/Users/hungnn/IdeaProjects/trash-out-skill-alexa/src/main/java/com/hungnn/handlers/LaunchRequestHandler.java
-/mnt/c/Users/hungnn/IdeaProjects/trash-out-skill-alexa/src/main/java/com/hungnn/handlers/RemovePeopleIntentHandler.java
-/mnt/c/Users/hungnn/IdeaProjects/trash-out-skill-alexa/src/main/java/com/hungnn/handlers/HelpIntentHandler.java
-/mnt/c/Users/hungnn/IdeaProjects/trash-out-skill-alexa/src/main/java/com/hungnn/handlers/CancelAndStopIntentHandler.java

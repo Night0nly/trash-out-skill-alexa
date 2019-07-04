@@ -1,9 +1,0 @@
-com/hungnn/handlers/SessionEndedRequestHandler.class
-com/hungnn/handlers/RemovePeopleIntentHandler.class
-com/hungnn/handlers/TrashTurnInitIntentHandler.class
-com/hungnn/handlers/TrashDumpedIntentHandler.class
-com/hungnn/handlers/CheckListIntentHandler.class
-com/hungnn/handlers/HelpIntentHandler.class
-com/hungnn/handlers/LaunchRequestHandler.class
-com/hungnn/handlers/CancelAndStopIntentHandler.class
-com/hungnn/TrashOutStreamHandler.class
